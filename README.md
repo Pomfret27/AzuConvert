@@ -1,0 +1,3 @@
+# AzuConvert
+
+An ImageMagick GUI.
